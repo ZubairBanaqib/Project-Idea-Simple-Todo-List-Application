@@ -22,3 +22,9 @@ Zubair Banaqib
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+my-first-repo/
+├── todo.py
+├── README.md
+└── .gitignore
