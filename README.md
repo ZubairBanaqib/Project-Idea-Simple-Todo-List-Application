@@ -17,7 +17,7 @@ This is a basic command-line todo list application written in Python.
 
 ## Author
 
-Your Name
+Zubair Banaqib
 
 ## License
 
